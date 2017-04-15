@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="binarySearch.cpp" />
+    <ClCompile Include="pow.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{34AF5FCF-90C4-41EA-9FA8-D0824764BA3B}</ProjectGuid>
